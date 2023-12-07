@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhavan2001a
 - 👀 I’m interested in ...Data Science & Machine Learning
-- 🌱 I’m currently learning ...ML,RL,AI
+- 🌱 I’m currently learning ...ML,DL,AI
 - 💞️ I’m looking to collaborate on ...Data Science & Machine Learning 
 - 📫 How to reach me ... www.linkedin.com/in/madhavan-a-533b18287
 
